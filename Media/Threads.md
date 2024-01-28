@@ -1,0 +1,56 @@
+# Threads
+
+
+- [@_doaa_mohammad](https://www.threads.net/@_doaa_mohammad) - Palestinian journalist and photographer
+- [@a7mhisham](https://www.threads.net/@a7mhisham) - Palestinian journalist
+- [@abed.abo.riash)](https://www.threads.net/@abed.abo.riash) - Palestinian photographer and journalist
+- [@abomoaaz23](https://www.threads.net/@abomoaaz23) - Palestinian journalist
+- [@aborjelaa](https://www.threads.net/@aborjelaa) - Palestinian content creator
+- [@adnan.barq](https://www.threads.net/@adnan.barq) - Palestinian Content Creator
+- [@ahmedeldin](https://www.threads.net/@ahmedeldin) - Palestinian Journalist, Activist, Content Creator
+- [@ahmedraida996](https://www.threads.net/@ahmedraida996) - Palestinian Humanitarian and Activist
+- [@alaa.daraghme](https://www.threads.net/@alaa.daraghme) - Palestinian journalist
+- [@alijadallah66](https://www.threads.net/@alijadallah66) - Palestinian photographer and journalist
+- [@alsharif_](https://www.threads.net/@sara.alsharif_) - Palestinian Content Creator
+- [@anat.international](https://www.threads.net/@anat.international) - Palestinian Activist, Content Creator
+- [@aobaidaat](https://www.threads.net/@aobaidaat) - Palestinian journalist
+- [@belalkh](https://www.threads.net/@belalkh) - Palestinian journalist, photographer and content creator
+- [@belalmortaja](https://www.threads.net/@belalmortaja) - Palestinian journalist
+- [@byplestia](https://www.threads.net/@byplestia) - Palestinian journalist and content creator
+- [@ceolawyer](https://www.threads.net/@ceolawyer) - Palestinian Lawyer, Activist
+- [@cravingpalestine](https://www.threads.net/@cravingpalestine) - A Pro-Palestinian activist that shares news about Palestine.
+- [@dr.haya.gaza](https://www.threads.net/@dr.haya.gaza) - Palestinian healthcare worker
+- [@eye.on.palestine](https://www.threads.net/@eye.on.palestine) - Palestinian journalist
+- [@faiz_osama50](https://www.threads.net/@faiz_osama50) - Palestinian journalist
+- [@freepalestinepod](https://www.threads.net/@freepalestinepod) - We bring you stories, expert opinions, in depth analysis & news commentary from Palestine.
+- [@fuad.kh.ps_](https://www.threads.net/@fuad.kh.ps_) - Martyred Palestinian journalist and photographer
+- [@gazangirl](https://www.threads.net/@gazangirl) - Palestinian Human Rights Lawyer, Podcast host
+- [@hamza_w_dahdooh](https://www.threads.net/@hamza_w_dahdooh) - Martyred Palestinian journalist
+- [@haneenharara](https://www.threads.net/@haneenharara) - Palestinian journalist
+- [@imamomarsuleiman](https://www.threads.net/@imamomarsuleiman) - Palestinian Religious Leader, Humanitarian
+- [@ismail.jood](https://www.threads.net/@ismail.jood) - Palestinian journalist
+- [@jenanmatari](https://www.threads.net/@jenanmatari) - Palestinian Author / Writer / Poet, Activist
+- [@lanzybear](https://www.threads.net/@lanzybear) - Palestinian Activist, Content Creator, Designer
+- [@m.z.gaza](https://www.threads.net/@m.z.gaza) - Palestinian journalist and photographer
+- [@mahdy_zourob](https://www.threads.net/@mahdy_zourob) - Palestinian journalist and photographer
+- [@mahmoudsabbah2](https://www.threads.net/@mahmoudsabbah2) - Palestinian journalist and photographer
+- [@maqadema](https://www.threads.net/@maqadema) - Palestinian journalist
+- [@mariambarghouti](https://www.threads.net/@mariambarghouti) - Palestinian Journalist, Author / Writer / Poet
+- [@mirna_elhelbawi](https://www.threads.net/@mirna_elhelbawi) - Palestinian Activist, Author / Writer / Poet
+- [@mo_elhelo21](https://www.threads.net/@mo_elhelo21) - Palestinian journalist and photographer
+- [@mohamaed_qndeel](https://www.threads.net/@mohamaed_qndeel) - Palestinian journalist and photographer
+- [@motasem.mortaja](https://www.threads.net/@motasem.mortaja) - Palestinian journalist
+- [@pal_action](https://www.threads.net/@pal_action) - The direct action network dismantling British complicity with Israeli apartheid
+- [@pomegranates](https://www.threads.net/@pomegranates) - Palestinian Activist
+- [@princekouta](https://www.threads.net/@princekouta) - Palestinian healthcare worker
+- [@ramysabdu](https://www.threads.net/@ramysabdu) - Palestinian Professor, Human Rights Lawyer
+- [@remikanazi](https://www.threads.net/@remikanazi) - Poet, writer, terrible photographer, and Pro-Palestinian activist
+- [@saeedqaq](https://www.threads.net/@saeedqaq) - Palestinian Photojournalist
+- [@saleh_aljafarawi](https://www.threads.net/@saleh_aljafarawi) - Palestinian journalist and photographer
+- [@shathahanaysha](https://www.threads.net/@shathahanaysha) - Palestinian journalist
+- [@soliman__farra](https://www.threads.net/@soliman__farra) - Palestinian journalist, photographer, and filmmaker
+- [@thegingarab](https://www.threads.net/@thegingarab) - Palestinian Activist, Content Creator
+- [@untoldpalestine](https://www.threads.net/@untoldpalestine) - Untold Palestine is an independent digital platform to tell visual stories about the lives of Palestinians. Through photographs and short videos
+- [@wael_eldahdouh](https://www.threads.net/@wael_eldahdouh) - Director and correspondent of Al Jazeera News Channel in Gaza
+- [@wissamgaza](https://www.threads.net/@wissamgaza) - Palestinian journalist and photographer
+- [@wizard_bisan1](https://www.threads.net/@wizard_bisan1) - Palestinian journalist
