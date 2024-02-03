@@ -17,7 +17,9 @@
 - [@magdalenamajidah](https://www.linkedin.com/in/magdalenamajidah) - Human Rights, and Pro-Palestinian activist
 - [@mahmoud-al-fiqy](https://www.linkedin.com/in/mahmoud-al-fiqy-861541b1/) - Palestinian activist, Gazans
 - [@medical-aid-for-palestinians-map](https://www.linkedin.com/company/medical-aid-for-palestinians-map-/) - Medical Aid for Palestinians works for the health and dignity of Palestinians living under occupation and as refugees
+- [@mondoweiss](https://www.linkedin.com/company/mondoweiss) - News and opinion about Palestine, israel, and the United States
 - [@palestine-children's-relief-fund](https://www.linkedin.com/company/palestine-children's-relief-fund/) - The main objective of the P.C.R.F. is to identify and treat every child in the Middle East in need of specialized surgery not available to them locally.
+- [@pcbs-palestinian](https://www.linkedin.com/in/pcbs-palestinian-05b630135) - The Palestinian Central Bureau of Statistics aims to develop and enhance the Palestinian official statistical system
 - [@rabia-billings-nettuno](https://www.linkedin.com/in/rabia-billings-nettuno-🍉-75784226) -
 - [@save-the-children-international](https://www.linkedin.com/company/save-the-children-international/) - Save the Children is the world's leading independent organisation for children
 - [@the-palestine-chronicle](https://www.linkedin.com/company/the-palestine-chronicle/) - The Palestine Chronicle is a non-profit organization that aims to educate the public about human rights, national struggles, freedom, and democracy through news, commentary, features, book reviews, photos, art, and more.

@@ -20,6 +20,7 @@
 - [@hamaswestbank](https://t.me/hamaswestbank) - The official channel of the Hamas Movement in the West Bank
 - [@hpress](https://t.me/hpress) - The official channel of the Palestinian journalist Hassan Aslih
 - [@httpsBbmFFFhNGNi](https://t.me/httpsBbmFFFhNGNi) - The official news channel of the Al-Quds Brigades
+- [@idfknowhatsgoingon](https://t.me/idfknowhatsgoingon) - Telegram channel for the Pro-Palestinian (https://www.instagram.com/greg.j.stoker)
 - [@InternetArabicBees](https://t.me/+r2FpThCgeQ9hMjE8) - Electronic Arabian Bee 🐝
 - [@is231](https://t.me/is231) - All news and events related to Palestine in general, and inside Palestine in particular; We cover it for you and share it in this group. First and foremost. This collection goes a long way and is the finest available.
 - [@IsraelsCrimes](https://t.me/IsraelsCrimes) - A channel dedicated to exposing Israeli war crimes in Gaza during the ongoing aggression in October 2023
@@ -34,24 +35,29 @@
 - [@meshheek](https://t.me/meshheek) - A Palestinian activist
 - [@MisbarFC](https://t.me/MisbarFC) - An Arab platform for examining news, finding facts, and detecting lies in the public space
 - [@mo3taps](https://t.me/mo3taps) - A Palestinian center specialized in providing data and information about the Palestinian issue
+- [@mondoweissgram](https://t.me/mondoweissgram) - News and opinion about Palestine, israel, and the United States
 - [@MuhammadSmiry](https://t.me/MuhammadSmiry) - Palestinian journalist
 - [@nabdnablus](https://t.me/nabdnablus) - A news agency that publishes news from Nablus and the West Bank
 - [@nablus_ps](https://t.me/nablus_ps) - A news agency that publishes news from Nablus and the West Bank
 - [@nabuls_news](https://t.me/nabuls_news) - A news agency that publishes news from Nablus and the West Bank
+- [@NajahChannel](https://t.me/NajahChannel) - Najah a Palestinian newsletter
 - [@nanlugher](https://t.me/nanlugher) - Nablus news agency that publishes news from Nablus and the West Bank
 - [@newpress1](https://t.me/newpress1) - Channel for following breaking news related to field events and immediate translations only.
 - [@omar_dirawi](https://t.me/omar_dirawi) - Palestinian journalist and photographer
 - [@PalestineChildrenChannel](https://t.me/PalestineChildrenChannel) - This is a channel dedicated to publishing crimes against children that Israeli social media blocks from followers.
 - [@PalestineResist](https://t.me/PalestineResist) -
 - [@palmoh](https://t.me/palmoh) - The official channel of the Palestinian Ministry of Health
+- [@Palqura](https://t.me/Palqura) - Encyclopedia of Palestinian Villages
 - [@qassam_WB](https://t.me/qassam_WB) - The official channel of the Martyr Izz al-Din al-Qassam Brigades in the West Bank
 - [@qassambrigades](https://t.me/qassambrigades) - The only official channel of the Martyr Izz al-Din al-Qassam BrigadesPalestine
 - [@Rahhal19](https://t.me/Rahhal19) - Channel for Diary of Palestinian men
 - [@Rahhal20](https://t.me/Rahhal20) - Backup channel for (https://t.me/Rahhal19)
+- [@rahmazeineg](https://t.me/rahmazeineg) - Pro-Palestinian Activist, Humanitarian
 - [@Rightsfreedoms](https://t.me/Rightsfreedoms) - The official channel of the Palestinian Center for Human Rights
 - [@saidqudaih](https://t.me/saidqudaih) - The official channel of the Palestinian journalist Said Qudaih
 - [@SerajSat](https://t.me/SerajSat) - Al-Aqsa Satellite Channel, News, and Reports agency
 - [@shamtly](https://t.me/shamtly) - The exclusive agent of Al-Shamtali via Telegram, A Palestinian news agency
+- [@ShaunKingChannel](https://t.me/ShaunKingChannel) - Pro-Palestinian Author / Writer / Poet, Activist
 - [@ShehabTelegram](https://t.me/ShehabTelegram) - The official channel of the Shehab News Agency
 - [@spokesman_2020](https://t.me/spokesman_2020) - Abu Ubaida, “military spokesman for the Al-Qassam Brigades”
 - [@ThatHideousStrength](https://t.me/ThatHideousStrength) - A channel that publishes news and information about the Palestinian issue and the Arab-Zionist conflict
