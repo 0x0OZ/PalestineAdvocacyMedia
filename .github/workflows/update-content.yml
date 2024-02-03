@@ -12,8 +12,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "18"
-      # - name: Install dependencies
-      #   run: npm install
       - name: Run update-content.js
       - run: node .github/actions/update-content.js
       - name: Commit changes
