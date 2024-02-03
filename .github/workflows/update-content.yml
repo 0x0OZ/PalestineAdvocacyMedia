@@ -13,7 +13,8 @@ jobs:
         with:
           node-version: "18"
       - run: node .github/actions/update-content.js
-      - run: |
-        git add .
-        git commit -m "Update content"
-        git push
+      - name: Commit and push changes
+        run: |
+          git add .
+          git commit -m "Update content"
+          git push
