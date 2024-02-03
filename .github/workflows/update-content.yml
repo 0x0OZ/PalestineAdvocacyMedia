@@ -2,7 +2,7 @@ name: Update-Content
 run-name: ${{ github.actor }} Running ${{ github.workflow }} on ${{ github.repository }}
 
 on:
-  - workflow_dispatch:
+  - workflow_dispatch
 jobs:
   update-content:
     runs-on: ubuntu-latest
