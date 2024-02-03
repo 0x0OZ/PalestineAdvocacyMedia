@@ -1,7 +1,9 @@
 name: Update-Content
 run-name: ${{ github.actor }} Running ${{ github.workflow }} on ${{ github.repository }}
 
-on: workflow_dispatch
+on:
+  - schedule:
+      - cron: "0 0 * * 5"
 jobs:
   update-content:
     runs-on: ubuntu-latest
